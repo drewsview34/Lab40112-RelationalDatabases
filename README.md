@@ -4,12 +4,12 @@ Quick repository for today's work on 1-24.
 ## Relational Databases and Schemas
 For this project, we needed to create a schema given the following information:
 
-1. The hotel can hold many guests at any given time, in fact guests can come and go as they please�..asynchronously :)
-1. The hotel is named �Async Inn� and has many nationwide locations. Each location will have a name, city, state, address, and phone number.
-1. Async Inn prides themselves on their unique layout designs of each hotel room. They advertise as it being your �apartment for the night�. This means they have invested a lot of resources into how each room looks and feels. Some have one bedroom, others have 2 bedrooms, while a few are more of a cozy studio. The team mentioned that they like to label each room with a nickname to better tell the difference between each of the layouts and amenities each room has to offer. (for example, the Seattle location has two 2-bedroom suites, but one is named �Seahawks Snooze� while the other is named �Restful Rainier�, each with their own amenities.)
-1. They also take pride in the amenities that each room has to offer. This can consist of features like �air conditioning�, �coffee maker�, �ocean view�, �mini bar�, the list goes on�They requested that they would like the amenities associated with each of the rooms as they do vary.
-1. The rooms vary in price, per location, as well as per room number. They also have a few rooms that they want to advertise as pet friendly.
-1. The number of rooms for each hotel varies. Some hotels have only a few rooms, while others may have dozens.
+1. The hotel can hold many guests at any given time, in fact guests can come and go as they please…..asynchronously :)
+2. The hotel is named “Async Inn” and has many nationwide locations. Each location will have a name, city, state, address, and phone number.
+3. Async Inn prides themselves on their unique layout designs of each hotel room. They advertise as it being your “apartment for the night”. This means they have invested a lot of resources into how each room looks and feels. Some have one bedroom, others have 2 bedrooms, while a few are more of a cozy studio. The team mentioned that they like to label each room with a nickname to better tell the difference between each of the layouts and amenities each room has to offer. (for example, the Seattle location has two 2-bedroom suites, but one is named “Seahawks Snooze” while the other is named “Restful Rainier”, each with their own amenities.)
+4. They also take pride in the amenities that each room has to offer. This can consist of features like “air conditioning”, “coffee maker”, “ocean view”, “mini bar”, the list goes on…They requested that they would like the amenities associated with each of the rooms as they do vary.
+5. The rooms vary in price, per location, as well as per room number. They also have a few rooms that they want to advertise as pet friendly.
+6. The number of rooms for each hotel varies. Some hotels have only a few rooms, while others may have dozens.
 
 Additionally, we were required to implement the following:
 - (1) Joint Entity Table with Payload
