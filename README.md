@@ -17,7 +17,7 @@ Additionally, we were required to implement the following:
 - (1) Enum
 
 ## Schema by Blaise Clarke and Andrew Hinojosa:
-![Whiteboard drawing of proposed schema](https://github.com/Dervival/Lab12-RelationalDBSchemas/blob/master/AsyncSchemaDrawing.jpg);
+![Whiteboard drawing of proposed schema](https://github.com/drewsview34/Lab40112-RelationalDatabases/blob/master/RelationalDB.jpg);
 
 ## Schema Component Explanation
 Hotel Table:
